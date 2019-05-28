@@ -1,4 +1,4 @@
-package com.neuedu.May27;
+package com.neuedu.homework.May27;
 
 import java.util.Scanner;
 
@@ -31,26 +31,27 @@ public class count {
         int x = s.nextInt();
         if( x > 4 || x <1){
             System.out.println("请选择正确选项");
-        }
-        System.out.print("请输入第一个数");
-        int m = s.nextInt();
-        System.out.print("请输入第二个数");
-        int n = s.nextInt();
-        switch (x){
-            case 1:
-                count.add( m , n );
-                break;
-            case 2:
-                count.cut( m , n );
-                break;
-            case 3:
-                count.ride( m , n );
-                break;
-            case 4:
-                count.divide( m , n );
-                break;
-            default:
-                System.out.print("请选择正确选项");
+        }else {
+            System.out.print("请输入第一个数");
+            int m = s.nextInt();
+            System.out.print("请输入第二个数");
+            int n = s.nextInt();
+            switch (x) {
+                case 1:
+                    count.add(m, n);
+                    break;
+                case 2:
+                    count.cut(m, n);
+                    break;
+                case 3:
+                    count.ride(m, n);
+                    break;
+                case 4:
+                    count.divide(m, n);
+                    break;
+                default:
+                    System.out.print("请选择正确选项");
+            }
         }
     }
 }

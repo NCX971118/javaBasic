@@ -1,4 +1,4 @@
-package com.neuedu.homework;
+package com.neuedu.homework.May25_27;
 
 public class factorial {
     /*计算9！*/

@@ -1,6 +1,4 @@
-package com.neuedu.May27;
-
-import java.util.Scanner;
+package com.neuedu.homework.May27;
 
 public class student {
     /* 定义一个学生类 包括 姓名 年龄 分数的特征

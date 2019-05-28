@@ -1,4 +1,4 @@
-package com.neuedu.May27;
+package com.neuedu.homework.May27;
 
 public class car {
     /*）编写一个Car类，具有：

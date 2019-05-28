@@ -1,4 +1,4 @@
-package com.neuedu.homework;
+package com.neuedu.homework.May25_27;
 
 public class NumSum {
     /*分别计算1-100之间的奇数和 和偶数和 */

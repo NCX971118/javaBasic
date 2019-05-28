@@ -1,16 +1,17 @@
-package com.neuedu.May27;
+package com.neuedu.homework.May27;
 
 import java.util.Scanner;
 
-public class oblong {
+public class oblong2 {
     /*1 定义长方形类，含：特征：宽、高（整型）；方法：求周长、面积；*/
-    public void zhouchang(int wid ,int hig){
-        int zhouchang =( wid +hig ) * 2;
+    int width ;int hight ;
+    public void zhouchang(){
+        int zhouchang =( width +hight ) * 2;
         System.out.println("周长为" + zhouchang);
     }
 
-    public  void mianji(int wid , int hig){
-        int mianji = wid * hig ;
+    public  void mianji(){
+        int mianji = width * hight ;
         System.out.println("面积为" + mianji);
     }
 
@@ -20,9 +21,8 @@ public class oblong {
         int w = s.nextInt();
         System.out.print("请输入高度");
         int h = s.nextInt();
-        oblong o = new oblong();
-        o.zhouchang(w,h);
-        o.mianji(w,h);
-
+        oblong2 o = new oblong2();
+        o.width = w ;
+        o.hight = h ;
     }
 }
