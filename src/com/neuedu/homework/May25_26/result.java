@@ -1,4 +1,4 @@
-package com.neuedu.homework.May25_27;
+package com.neuedu.homework.May25_26;
 
 import java.util.Scanner;
 

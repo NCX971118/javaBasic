@@ -1,4 +1,4 @@
-package com.neuedu.homework.May25_27;
+package com.neuedu.homework.May25_26;
 
 public class DeffodilNum {
     /*打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，

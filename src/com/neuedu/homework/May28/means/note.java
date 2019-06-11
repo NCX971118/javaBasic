@@ -1,4 +1,4 @@
-package com.neuedu.homework.May28.natrue;
+package com.neuedu.homework.May28.means;
 
 /*定义一个笔记本类，该类有颜色（char）和cpu型号（int）两个属性。
 2.1 无参和有参的两个构造方法；有参构造方法可以在创建对象的同时为每个属性赋值；

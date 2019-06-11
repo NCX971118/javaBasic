@@ -1,4 +1,4 @@
-package com.neuedu.homework.May25_27;
+package com.neuedu.homework.May25_26;
 
 public class thereSum {
     /*计算 1~200 之间所有 3 的倍数之和。*/

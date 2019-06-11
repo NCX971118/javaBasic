@@ -1,6 +1,6 @@
 package com.neuedu.homework.May28.test;
 
-import com.neuedu.homework.May28.natrue.student;
+import com.neuedu.homework.May28.means.student;
 
 import java.util.Scanner;
 

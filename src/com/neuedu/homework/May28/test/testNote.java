@@ -1,6 +1,6 @@
 package com.neuedu.homework.May28.test;
 
-import com.neuedu.homework.May28.natrue.note;
+import com.neuedu.homework.May28.means.note;
 
 public class testNote {
     public static void main(String[] args) {
